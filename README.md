@@ -10,3 +10,4 @@
 # CREDITS
 
 ### • DEVIL    »»  <a href="https://github.com/lucifeermorningstar" alt="DEVIL"> <img src="https://img.shields.io/badge/Devil-90302f?logo=github" /></a>
+### • Inuka    »»  <a href="https://github.com/InukaAsith" alt="InukaAsith"> <img src="https://img.shields.io/badge/Inuka-10102f?logo=github" /></a>
