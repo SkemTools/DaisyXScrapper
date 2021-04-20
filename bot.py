@@ -31,11 +31,11 @@ from telegram.ext import (
     ConversationHandler
 )
 
-from helper_funcs.step_one import request_tg_code_get_random_hash
-from helper_funcs.step_two import login_step_get_stel_cookie
-from helper_funcs.step_three import scarp_tg_existing_app
-from helper_funcs.step_four import create_new_tg_app
-from helper_funcs.helper_steps import (
+from helper_func.step_one import request_tg_code_get_random_hash
+from helper_func.step_two import login_step_get_stel_cookie
+from helper_func.step_three import scarp_tg_existing_app
+from helper_func.step_four import create_new_tg_app
+from helper_func.helper_steps import (
     get_phno_imn_ges,
     extract_code_imn_ges,
     parse_to_meaning_ful_text,
