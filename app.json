@@ -3,9 +3,9 @@
     "description": "None",
     "logo": "https://telegra.ph/file/1518e15421d21c5afd9af.jpg",
     "keywords": ["Telethon", "telegram", "Scrapper", "python"],
-    "repository": "https://github.com/ULTRA-OP/API_HASH",
-    "website": "https://ultroid.netlify.app/",
-    "success_url": "https://t.me/ULTRAXOT",
+    "repository": "https://github.com/SkemTools",
+    "website": "https://daisyx.netlify.app/",
+    "success_url": "https://t.me/DaisySupport_Official",
     "stack": "container",
     "env": {
     "WEBHOOK": {
