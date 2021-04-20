@@ -15,5 +15,5 @@
 
 # Our Bot
 
-==> ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴏᴜʀ ᴅᴀɪsʏ x sᴄʀᴀᴘᴘᴇʀ ᴀs [ Click Here ](t.me/DaisyXScrapper) 
+==> ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴏᴜʀ ᴅᴀɪsʏ x sᴄʀᴀᴘᴘᴇʀ ᴀs [ Click Here ](t.me/DaisyXScrapper) "/n
 ==> ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ sᴛᴀʀ ⭐. 
