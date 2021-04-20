@@ -16,3 +16,4 @@
 # Our Bot
 
 ==> ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴏᴜʀ ᴅᴀɪsʏ x sᴄʀᴀᴘᴘᴇʀ ᴀs [ Click Here ](t.me/DaisyXScrapper) 
+==> ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ sᴛᴀʀ ⭐. 
